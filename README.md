@@ -1,7 +1,7 @@
 # Place-AR-Text-SwiftUI-RealityKit-
 Place blue AR text
 # The first part
-![IMG_1222](https://github.com/S-way520/Place-AR-Text-SwiftUI-RealityKit-/assets/95877651/782dfc99-342b-4f31-9a2a-4505b8be6ec2)
+![IMG_1232](https://github.com/S-way520/Place-AR-Text-SwiftUI-RealityKit/assets/95877651/76539f42-87be-4581-9803-09ed0f1cdbce)
 # The second part
 Code file 1
 ```swift
